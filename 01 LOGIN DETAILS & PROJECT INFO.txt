@@ -2,7 +2,7 @@
 
 **Database Name: onlinefoodorder**
 
-**Developed by Vijay Thapa**
+**Developed by Rehema Ouma**
 
 **Recommended PHP Version 5.6 or Newer**
 
